@@ -1,1 +1,1 @@
-# Autism-predicition
+# Autism Prediction
